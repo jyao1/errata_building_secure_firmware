@@ -13,3 +13,9 @@ s/attack the hypervisor in 2019/attack the hypervisor in 2009/g
 
 "Quantum Key Distribution (QKD)", pg.821 in Chap 19:
 s/Step 1: Quantum qommunication phase/Step 1: Quantum communication phase/g
+
+3) 
+
+Kernel Data Protection (KDP) "See Figure 16-31", page.662 in chap 16.
+it should be: "See Figure 16-32"
+
